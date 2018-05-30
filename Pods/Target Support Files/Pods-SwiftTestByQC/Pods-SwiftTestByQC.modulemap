@@ -1,0 +1,6 @@
+framework module Pods_SwiftTestByQC {
+  umbrella header "Pods-SwiftTestByQC-umbrella.h"
+
+  export *
+  module * { export * }
+}
